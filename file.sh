@@ -1,4 +1,4 @@
-echo "enter filename"
-read filename
-echo "learning versioning with Git" >$filename
-cat $filename
+echo "enter the filename"  
+read filename 
+echo Welcome to Devops $filename
+echo $filename, this is going to be the best thing since slice bread!
